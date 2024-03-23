@@ -1,9 +1,9 @@
-- >> HardWareRock
-- >> isGood = ƪ(˘⌣˘)ʃ
-  >> learning = 100%
-  >> proyects = false   #(⊙ˍ⊙)
+  ****●------<< HardWareRock >>------●****
+- isGood = ƪ(˘⌣˘)ʃ
+- learning = 100%
+- proyects = false  (⊙ˍ⊙)
 
-       d=====(￣▽￣)=====b
+  >> d=====(￣▽￣)=====b
 
 <!---
 HardWareRock/HardWareRock is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
